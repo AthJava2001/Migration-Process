@@ -5,5 +5,5 @@ try{
   assert(x>y);
   console.log("X is greater than y");
 }catch(error){
-  console.log("Error is :",error);
+  console.log("Error is ",error);
 } 
